@@ -1,0 +1,2 @@
+# eazy
+Membuat eazy script
